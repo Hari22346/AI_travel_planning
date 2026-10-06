@@ -197,3 +197,24 @@ travel_plans/
 * Restaurant recommendations
 * PDF export
 * User authentication
+
+## 👨‍💻 Author
+
+**R Hari Prasanth**
+
+Electronics and Communication Engineering Graduate
+
+- LinkedIn: www.linkedin.com/in/r-hari-prasanth-54369a376
+- GitHub:   https://github.com/Hari22346
+
+---
+
+## ⭐ Project
+
+If you find this project useful, consider giving the repository a **star ⭐**.
+
+---
+
+## 📄 License
+
+This project is created for **educational and portfolio purposes**.
